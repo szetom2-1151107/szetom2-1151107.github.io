@@ -1,0 +1,21 @@
+.test {
+    position: relative;
+    text-align: center;
+    border-style: dotted;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+}
+.text {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: dotted;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+}
